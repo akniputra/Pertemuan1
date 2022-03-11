@@ -16,5 +16,4 @@ fun main() {
     statis = 3.0
     statis = 5.9
     val phi = 3.14
-    phi = 22.9
 }
